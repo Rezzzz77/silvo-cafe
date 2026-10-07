@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "کافه سیلو پلازا",
+    "slug": "cafe-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#f7f3ea",
+    "android": {
+      "package": "ir.silvo.cafeapp"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}
